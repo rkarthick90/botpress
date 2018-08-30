@@ -1,0 +1,21 @@
+[
+  {
+    "id": "builtin_single-choice-R2Xewz",
+    "formData": {
+      "text": "How are you",
+      "choices": [
+        {
+          "title": "fine",
+          "value": "fine"
+        },
+        {
+          "title": "good",
+          "value": "good"
+        }
+      ],
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-08-30T04:18:18.017Z"
+  }
+]
